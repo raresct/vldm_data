@@ -1,4 +1,4 @@
-productID,category,instore
-A,hardware,1
-B,software,0
-C,software,1
+productID,price,category,instore
+A,300,hardware,1
+B,100,software,0
+C,200,software,1
